@@ -1,0 +1,89 @@
+.cancel-button{
+    /* width: 114px;
+    height: 47px; */
+}
+.magnato_container{
+    background-color: #EBF0F4;
+}
+.submit-button{
+    background-color: #3A4B86
+    ;
+}
+i{
+    border-radius: 10px 0 0 10px;
+}
+.form-control{
+    border-radius: 0 10px 10px 0;
+}
+
+.react-datepicker-wrapper{
+    width: 100%;
+}
+
+.sq-input-field{
+    &--error{
+        color: red;     
+        margin-top: 4px;
+       width:100%;
+    }
+}
+
+.btn:hover{
+    background-color: #3A4B86 !important;
+}
+
+.icon{
+    padding-left: 29px; 
+    background-size: 20px;
+}
+#icon-1{
+    background: white url("../../icons/name.svg") no-repeat right ;
+}
+#icon-2{
+    background: white url("../../icons/email.svg") no-repeat right ;
+}
+#icon-3{
+    background: white url("../../icons/phone.svg") no-repeat right ;
+}
+#icon-4{
+    background: white url("../../icons/world.svg") no-repeat right ;
+}
+#icon-5{
+    background: white url("../../icons/rupee.svg") no-repeat right ;
+}
+#icon-6{
+    background: white url("../../icons/calendar.svg") no-repeat right ;
+}
+#icon-7{
+    background: white url("../../icons/clock.svg") no-repeat right ;
+
+}
+#icon-8{
+    background: white url("../../icons/options.svg") no-repeat right ;
+
+}
+#icon-9{
+    background: white url("../../icons/clock.svg") no-repeat right ;
+
+}
+.form-select{
+    background: white url("../../icons/arrow-down.svg") no-repeat right;
+    padding-right: 10px;
+    /* background-image:
+          linear-gradient(45deg, transparent 50%, gray 50%),
+          linear-gradient(135deg, gray 50%, transparent 50%),
+          radial-gradient(#ddd 70%, transparent 72%);
+        background-position:
+          calc(100% - 20px) calc(1em + 2px),
+          calc(100% - 15px) calc(1em + 2px),
+          calc(100% - .5em) .5em;
+        background-size:
+          5px 5px,
+          5px 5px,
+          1.5em 1.5em;
+        background-repeat: no-repeat; */
+}
+#icon-10{
+        
+
+}
